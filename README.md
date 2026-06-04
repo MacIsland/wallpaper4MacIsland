@@ -1,0 +1,1 @@
+Wallpaper4MacIsland 是适配 MacIsland macOS 灵动岛客户端的专用壁纸资源仓库
